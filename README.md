@@ -41,7 +41,7 @@ Let's build amazing web applications together! 😊
   </div>
   <div id="badges">
     <a href="https://discordapp.com/users//269825792077201408/" target="_blank">
-      <img src="https://www.flaticon.com/ru/free-icon/discord_3670157" width="40" height="40" alt="discord" />
+      <img src="assets/discord.png" width="40" height="40" alt="discord" />
     </a>
   </div>
 
