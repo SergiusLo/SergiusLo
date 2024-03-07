@@ -20,7 +20,7 @@ Tailwind CSS & Bootstrap: I am proficient in both Tailwind CSS and Bootstrap, wh
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndnbTc4cnBtdDh6eml3ZzI3bXJ1MnloNjRvbnp5dHN1emRuc2xxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RCtKcMeeIlIFskmH7C/giphy.gif" width="30px"> I am always open to learning new technologies and approaches to web development. My goal is to create high quality products that benefit users as well as make a profit.
 
-<img src="https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2FUdIgGlL8b2UsIkkeWkCSsOhDB-we6QVz94-u92ebU3o.gif%3Fwidth%3D524%26format%3Dmp4%26s%3Da3f9bc88cdf2bde6371cc5d7bd7069c9252b13ae" width="30px"> If you have any questions or would like to discuss a possible collaboration, don't hesitate to contact me! My email: slobojko21@gmail.com.
+📫 If you have any questions or would like to discuss a possible collaboration, don't hesitate to contact me! My email: slobojko21@gmail.com.
 
 Let's build amazing web applications together! 😊
 
