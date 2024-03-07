@@ -39,6 +39,11 @@ Let's build amazing web applications together! 😊
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
   </div>
+  <div id="badges">
+    <a href="https://discordapp.com/users//269825792077201408/" target="_blank">
+      <img src="https://www.flaticon.com/ru/free-icon/discord_3670157" width="40" height="40" alt="discord" />
+    </a>
+  </div>
 
 ---
 
