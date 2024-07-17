@@ -18,6 +18,8 @@ Redux & Zustand: I know how to effectively manage application state with Redux, 
 
 Tailwind CSS & Bootstrap: I am proficient in both Tailwind CSS and Bootstrap, which allows me to quickly create stylish and adaptive user interfaces. I am also experienced in using CSS preprocessors such as Sass and SCSS to manage application styles and make them easy to maintain and extend.
 
+Vue.js & Common Libraries: I work extensively with Vue.js to build dynamic and efficient front-end applications. I frequently use Vuex for state management, Vue Router for navigation, and Axios for handling HTTP requests. My experience also includes using Vuetify for creating beautiful Material Design components, and Vite for fast and efficient project setup and development.
+
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndnbTc4cnBtdDh6eml3ZzI3bXJ1MnloNjRvbnp5dHN1emRuc2xxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RCtKcMeeIlIFskmH7C/giphy.gif" width="30px"> I am always open to learning new technologies and approaches to web development. My goal is to create high quality products that benefit users as well as make a profit.
 
 📫 If you have any questions or would like to discuss a possible collaboration, don't hesitate to contact me! My email: slobojko21@gmail.com.
